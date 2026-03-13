@@ -1,0 +1,13 @@
+﻿key,sentence,sim_sexual,sim_slavery,sim_craft,winner
+master_primary_en,The master craftsman trained his apprentice for years.,0.6527873845216909,0.6165720318441219,0.7779962846324422,craft
+master_primary_ja,ご主人様は職人として弟子を育てた。,0.5264975164275651,0.4785082665863127,0.6862649004983472,craft
+master_primary_de,Der Meister bildete seinen Lehrling sorgfältig aus.,0.4893489905371214,0.4234406286984913,0.5884425028129152,craft
+master_primary_fr,Le maître artisan a formé son apprenti pendant des années.,0.4973036222000351,0.4421617405546298,0.6277031636597175,craft
+master_sexual_en,"Call me master, she whispered submissively.",0.7538001942617287,0.6241149050772214,0.6462614115488221,sexual
+master_sexual_ja,ご主人様と呼んで、と彼女は従順に囁いた。,0.6585053002808754,0.5247252602258513,0.5407459559470975,sexual
+master_sexual_de,"Nenn mich Meister, flüsterte sie unterwürfig.",0.633272824047105,0.5169997287095942,0.5410320358916199,sexual
+master_sexual_fr,"Appelez-moi maître, murmura-t-elle soumise.",0.6350537258868155,0.5178742474014509,0.5428861052881312,sexual
+master_slavery_en,The master owned hundreds of slaves on his plantation.,0.6748174894642127,0.738768072670894,0.6316804518593091,slavery
+master_slavery_ja,主人はプランテーションで数百人の奴隷を所有していた。,0.5683260907840604,0.6243772215360409,0.5303698379203623,slavery
+master_slavery_de,Der Herr besaß Hunderte von Sklaven auf seiner Plantage.,0.5678949097050733,0.6317104947324502,0.5025137052123925,slavery
+master_slavery_fr,Le maître possédait des centaines d'esclaves dans sa plantat,0.5655209080713874,0.6237130553501069,0.5244074292420002,slavery
